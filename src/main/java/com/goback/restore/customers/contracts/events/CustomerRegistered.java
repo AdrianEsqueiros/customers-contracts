@@ -1,6 +1,7 @@
-package pe.edu.upc.banking.customers.contracts.events;
+package com.goback.restore.customers.contracts.events;
 
 import lombok.Value;
+
 import java.time.Instant;
 
 @Value

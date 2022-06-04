@@ -1,4 +1,4 @@
-package pe.edu.upc.banking.customers.contracts.commands;
+package com.goback.restore.customers.contracts.commands;
 
 import lombok.Value;
 import org.axonframework.modelling.command.TargetAggregateIdentifier;
